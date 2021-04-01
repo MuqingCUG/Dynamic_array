@@ -1,0 +1,2 @@
+# Dynamic_array
+自己仿照vector三个指针start、finish、end_of_storge 实现了动态数组二倍扩容
